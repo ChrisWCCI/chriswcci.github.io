@@ -79,6 +79,9 @@ nav a:hover::after{
 .box-4 {
     grid-area: box-4;
 }
+.contact-info {
+  list-style: none; /*removes the bullet points from the ul li items*/
+}
 .copyright {
     grid-area: copyright;
     text-align: center;
